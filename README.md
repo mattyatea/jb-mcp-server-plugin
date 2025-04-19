@@ -1,4 +1,9 @@
 [![official JetBrains project](http://jb.gg/badges/incubator-flat-square.svg)](https://github.com/JetBrains#jetbrains-on-github)
+# New Feature
+- [ ] Auto merge conflict resolve
+- [ ] 
+- [ ] 
+
 # JetBrains MCP Server Plugin
 
 JetBrains MCP (Model Context Protocol) Server Plugin enables seamless integration between Large Language Models (LLMs) and JetBrains IDEs. This plugin provides the server-side implementation for handling MCP requests and exposes extension points for implementing custom tools.
